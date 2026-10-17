@@ -43,3 +43,9 @@ CustomerAggregates AS (
 )
 SELECT * FROM CustomerAggregates
 ORDER BY monetary DESC;
+## 📂 Repository Structure
+```text
+ecommerce-customer-segmentation-rfm/
+├── notebooks/
+│   └── ecommerce_rfm_analysis.ipynb   # Main analysis notebook
+└── README.md                          # Project documentation
